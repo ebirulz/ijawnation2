@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\SDK\flutter\.pub-cache\git\betterplayer-ff8c6909ba7b5138cd727a1f969de14e89a1970f\android\src\main\shaders"/></dataSet><dataSet config="release" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\SDK\flutter\.pub-cache\git\betterplayer-ff8c6909ba7b5138cd727a1f969de14e89a1970f\android\src\release\shaders"/></dataSet></merger>

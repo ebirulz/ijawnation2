@@ -1,0 +1,8 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.jhomlala.better_player" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->C:\SDK\flutter\.pub-cache\git\betterplayer-ff8c6909ba7b5138cd727a1f969de14e89a1970f\android\src\main\AndroidManifest.xml
+6
+7</manifest>

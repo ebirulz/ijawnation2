@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Ebi\\Desktop\\ijawnation2\\build\\webview_flutter_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in\\values-in.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ebi\\.gradle\\caches\\transforms-2\\files-2.1\\2916240a3db538834e655c1df5c1b818\\core-1.6.0\\res\\values-in\\values-in.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Ebi\\Desktop\\ijawnation2\\build\\webview_flutter_android\\intermediates\\res\\merged\\debug\\values-in\\values-in.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ebi\\.gradle\\caches\\transforms-2\\files-2.1\\2916240a3db538834e655c1df5c1b818\\core-1.6.0\\res\\values-in\\values-in.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
